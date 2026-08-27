@@ -1,9 +1,31 @@
 agent:
   agentId: baseAgent_agent_1787858142943_098peyki8
   orgId: f48d4f38-c98b-40a7-abb5-8218fb822f83
-skills: []
+skills:
+  - name: hr-core-operations
+    skillId: 6a5da5df-2c29-479f-a1d3-284e40940b20
+    version: 1.0.1
+  - name: hr-knowledge-compliance
+    skillId: 9708cbdb-e708-4e55-af1b-ab98bc242373
+    version: 1.0.1
+  - name: performance-management
+    skillId: 788781d4-132d-47ec-b269-a5f871fd7a02
+    version: 1.0.1
 webhooks: []
-jobs: []
-preprocessors: []
-postprocessors: []
+jobs:
+  - jobId: 00b813c6-557f-4b9a-b354-3aa6389d1ed2
+    name: iqama-expiry-scan
+    version: 1.0.1
+preprocessors:
+  - name: identify-employee
+    preprocessorId: preprocessor_c421fca8-8c28-428b-ac7a-40e640312f8c
+    version: 1.0.1
+postprocessors:
+  - name: bilingual-hr-formatter
+    postprocessorId: postprocessor_339efa52-3ebd-4371-8637-5d102f78ea02
+    version: 1.0.1
 mcpServers: []
+backup:
+  activeVersion: 4
+  lastHash: 1ea1432784060ee35392f25e7afa0ffb0304f20d03bfd0073e7de040609cdac6
+  lastPushedAt: '2026-08-28T12:38:48.365Z'

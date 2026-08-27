@@ -1,0 +1,27 @@
+[
+  {
+    "entity": "Gulf Industries KSA",
+    "location": "Riyadh HQ",
+    "days": ["Day 1: Badge, laptop, labour-law briefing", "Day 2: Department induction", "Day 3: Safety and Nitaqat overview"]
+  },
+  {
+    "entity": "Gulf Industries KSA",
+    "location": "Jeddah plant",
+    "days": ["Day 1: Plant safety PPE", "Day 2: Shift protocol", "Day 3: Supervisor shadow"]
+  },
+  {
+    "entity": "Gulf Industries UAE",
+    "location": "Dubai",
+    "days": ["Day 1: Visa and Emirates ID desk", "Day 2: Office induction", "Day 3: Team intro"]
+  },
+  {
+    "entity": "Gulf Industries Egypt",
+    "location": "Cairo",
+    "days": ["Day 1: Labour office file", "Day 2: Finance systems", "Day 3: Team intro"]
+  },
+  {
+    "entity": "Gulf Industries Jordan",
+    "location": "Amman",
+    "days": ["Day 1: Social security file", "Day 2: Site walkthrough", "Day 3: Team intro"]
+  }
+]

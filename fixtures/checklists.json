@@ -1,0 +1,10 @@
+[
+  {
+    "employeeId": "1002",
+    "items": [
+      { "name": "Iqama copy", "dueDate": "2026-09-01", "completed": false },
+      { "name": "Bank IBAN", "dueDate": "2026-09-01", "completed": false },
+      { "name": "Emergency contact", "dueDate": "2026-09-01", "completed": false }
+    ]
+  }
+]

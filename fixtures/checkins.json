@@ -1,0 +1,50 @@
+[
+  {
+    "date": "2026-08-24",
+    "team_lead_email": "ahmad.alharbi@pilot.example",
+    "team_lead_name": "Ahmad Al-Harbi",
+    "employee_id": "1002",
+    "employee_name": "Fatima Hassan",
+    "accomplished": "Completed line 3 safety checklist",
+    "blockers": "Waiting on spare valve",
+    "rating": 4,
+    "country": "KSA",
+    "entity": "Gulf Industries KSA"
+  },
+  {
+    "date": "2026-08-25",
+    "team_lead_email": "ahmad.alharbi@pilot.example",
+    "team_lead_name": "Ahmad Al-Harbi",
+    "employee_id": "1003",
+    "employee_name": "Omar Farouk",
+    "accomplished": "Cleared Dubai inbound backlog",
+    "blockers": "",
+    "rating": 5,
+    "country": "UAE",
+    "entity": "Gulf Industries UAE"
+  },
+  {
+    "date": "2026-08-26",
+    "team_lead_email": "ahmad.alharbi@pilot.example",
+    "team_lead_name": "Ahmad Al-Harbi",
+    "employee_id": "1005",
+    "employee_name": "Yousef Mansour",
+    "accomplished": "Replaced Amman pump seal",
+    "blockers": "Need new gasket stock",
+    "rating": 3,
+    "country": "Jordan",
+    "entity": "Gulf Industries Jordan"
+  },
+  {
+    "date": "2026-08-20",
+    "team_lead_email": "layla.alsaud@pilot.example",
+    "team_lead_name": "Layla Al-Saud",
+    "employee_id": "1004",
+    "employee_name": "Nour Adel",
+    "accomplished": "Closed July payroll recon",
+    "blockers": "",
+    "rating": 5,
+    "country": "Egypt",
+    "entity": "Gulf Industries Egypt"
+  }
+]

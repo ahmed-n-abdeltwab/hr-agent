@@ -1,0 +1,222 @@
+{
+  "lastHash": "1ea1432784060ee35392f25e7afa0ffb0304f20d03bfd0073e7de040609cdac6",
+  "lastPushedAt": "2026-08-28T12:38:48.366Z",
+  "files": [
+    {
+      "relativePath": "env.example",
+      "hash": "52b0d24e562573b9"
+    },
+    {
+      "relativePath": "fixtures/checkins.json",
+      "hash": "ab0604df3ebebc31"
+    },
+    {
+      "relativePath": "fixtures/checklists.json",
+      "hash": "5d5a53c3d6938c28"
+    },
+    {
+      "relativePath": "fixtures/employees.json",
+      "hash": "66a95a810124b699"
+    },
+    {
+      "relativePath": "fixtures/orientation.json",
+      "hash": "dd8c910a9396a5ca"
+    },
+    {
+      "relativePath": "fixtures/timeOffTypes.json",
+      "hash": "1f485e87ccda9e19"
+    },
+    {
+      "relativePath": "knowledge/ksa-labor-law.md",
+      "hash": "e2b2a73f7f1900bb"
+    },
+    {
+      "relativePath": "knowledge/nitaqat-saudization.md",
+      "hash": "6b44dc44c487d963"
+    },
+    {
+      "relativePath": "knowledge/probation-ksa-uae-egypt-jordan.md",
+      "hash": "f6aecb81a5b2b98a"
+    },
+    {
+      "relativePath": "knowledge/sop-exit-reentry-visa.md",
+      "hash": "cb85e0b7c9b6700f"
+    },
+    {
+      "relativePath": "knowledge/sop-housing-allowance.md",
+      "hash": "e713f30e09d34351"
+    },
+    {
+      "relativePath": "knowledge/sop-iqama-renewal.md",
+      "hash": "b3b6827373f91e30"
+    },
+    {
+      "relativePath": "knowledge/sop-salary-certificate.md",
+      "hash": "fccb524321cdf332"
+    },
+    {
+      "relativePath": "knowledge/sop-transfer-request.md",
+      "hash": "a71b2c005059afad"
+    },
+    {
+      "relativePath": "lua.skill.yaml",
+      "hash": "90a10f774135f506"
+    },
+    {
+      "relativePath": "package.json",
+      "hash": "1e2b563b9350aeb3"
+    },
+    {
+      "relativePath": "QUICKSTART.md",
+      "hash": "31e631fd64512cd1"
+    },
+    {
+      "relativePath": "README.md",
+      "hash": "58814aba290a1741"
+    },
+    {
+      "relativePath": "src/index.ts",
+      "hash": "e6b3840e10da94b7"
+    },
+    {
+      "relativePath": "src/jobs/iqamaExpiryScan.ts",
+      "hash": "d07567de9cc705c3"
+    },
+    {
+      "relativePath": "src/lib/assets.ts",
+      "hash": "adc7fd38f0451ce8"
+    },
+    {
+      "relativePath": "src/lib/bamboohr.ts",
+      "hash": "b7661640aa2b3069"
+    },
+    {
+      "relativePath": "src/lib/data.ts",
+      "hash": "9507f7648ae47582"
+    },
+    {
+      "relativePath": "src/lib/i18n.ts",
+      "hash": "b448f3b4772a747e"
+    },
+    {
+      "relativePath": "src/lib/knowledgeSeed.ts",
+      "hash": "9900d6ff934e28b5"
+    },
+    {
+      "relativePath": "src/lib/locale.ts",
+      "hash": "15f954c6a67fb345"
+    },
+    {
+      "relativePath": "src/lib/notify.ts",
+      "hash": "8e79c358ae3ec120"
+    },
+    {
+      "relativePath": "src/lib/rules/gratuity.ts",
+      "hash": "066b4531a9cd917b"
+    },
+    {
+      "relativePath": "src/lib/rules/leave.ts",
+      "hash": "6faf39f2865b2adf"
+    },
+    {
+      "relativePath": "src/lib/rules/probation.ts",
+      "hash": "b394c58ad96b0d1c"
+    },
+    {
+      "relativePath": "src/lib/sheets.ts",
+      "hash": "9cc85df93b41ab58"
+    },
+    {
+      "relativePath": "src/lib/tool.ts",
+      "hash": "ecaec63f1e23c9bc"
+    },
+    {
+      "relativePath": "src/processors/bilingualFooter.ts",
+      "hash": "6ce35f87dc95c43b"
+    },
+    {
+      "relativePath": "src/processors/identifyEmployee.ts",
+      "hash": "502ac76e1a1f8f34"
+    },
+    {
+      "relativePath": "src/skills/hr.skill.ts",
+      "hash": "c699d2abe8e0150d"
+    },
+    {
+      "relativePath": "src/skills/tools/AssignOrientationTool.ts",
+      "hash": "753be393744d495b"
+    },
+    {
+      "relativePath": "src/skills/tools/CalculateGratuityTool.ts",
+      "hash": "18469adaab082034"
+    },
+    {
+      "relativePath": "src/skills/tools/CheckIqamaExpiryTool.ts",
+      "hash": "26e4cb12ee9d63d0"
+    },
+    {
+      "relativePath": "src/skills/tools/CompleteOnboardingTool.ts",
+      "hash": "0798ee191e0b514d"
+    },
+    {
+      "relativePath": "src/skills/tools/GetSopTool.ts",
+      "hash": "56a840bf8fc4418c"
+    },
+    {
+      "relativePath": "src/skills/tools/LogSopGapTool.ts",
+      "hash": "3aa5bd03c5dcf74e"
+    },
+    {
+      "relativePath": "src/skills/tools/RequestLeaveTool.ts",
+      "hash": "3669147e5c834d69"
+    },
+    {
+      "relativePath": "src/skills/tools/SearchSopsTool.ts",
+      "hash": "1635808870eb1906"
+    },
+    {
+      "relativePath": "src/skills/tools/StartOnboardingTool.ts",
+      "hash": "b4271986c42f03de"
+    },
+    {
+      "relativePath": "src/skills/tools/SubmitOnboardingDocumentTool.ts",
+      "hash": "7f9d7cc9a4c272d2"
+    },
+    {
+      "relativePath": "src/skills/tools/SubmitTeamCheckinTool.ts",
+      "hash": "c0eae7704bb4464e"
+    },
+    {
+      "relativePath": "src/skills/tools/WeeklyTeamPerformanceTool.ts",
+      "hash": "897e008648e30bd9"
+    },
+    {
+      "relativePath": "src/tools/documents.ts",
+      "hash": "f51683a42781a7a7"
+    },
+    {
+      "relativePath": "src/tools/leave.ts",
+      "hash": "27aaed622ab6b878"
+    },
+    {
+      "relativePath": "src/tools/onboarding.ts",
+      "hash": "ef602843dc6f49be"
+    },
+    {
+      "relativePath": "src/tools/payroll.ts",
+      "hash": "ab85dc05cb843d46"
+    },
+    {
+      "relativePath": "src/tools/performance.ts",
+      "hash": "d07341c354bf8719"
+    },
+    {
+      "relativePath": "src/tools/sop.ts",
+      "hash": "4f5396ed7e470704"
+    },
+    {
+      "relativePath": "tsconfig.json",
+      "hash": "9a94c9d9a8adc177"
+    }
+  ]
+}
